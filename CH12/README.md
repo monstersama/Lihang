@@ -1,4 +1,5 @@
 # CH12 统计学习方法总结
+![Hits](https://www.smirkcao.info/hit_gits/Lihang/CH12/README.md)
 
 [TOC]
 
